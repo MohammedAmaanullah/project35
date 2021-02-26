@@ -1,2 +1,2 @@
-# project35
-it can be updated on all browsers
+# p5.play-boilerplate
+Boiler plate for p5.play
